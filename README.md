@@ -35,5 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="40" height="40" alt="bi" src="https://github.com/user-attachments/assets/dc88a517-4b34-41c7-8f6d-8fa57f44b87c" />
+<img width="12" height="40" alt="t" src="https://github.com/user-attachments/assets/c3815d39-300c-4b14-9efd-f87b374491d8" />
 
 </div>
