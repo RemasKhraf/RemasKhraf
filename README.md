@@ -35,7 +35,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
-  <img width="40" height="40" alt="bi Background Removed" src="https://github.com/user-attachments/assets/ac5334d3-677a-4bcd-9c6d-7689b920084e" />
+  <img width="225" height="225" alt="sas Background Removed" src="https://github.com/user-attachments/assets/ea100f91-5193-4b0d-b5be-7ff3236343d0" />
+  <img width="12" />
+
 
 
 
