@@ -34,7 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-<img width="40" height="40" alt="bi-removebg-preview" src="https://github.com/user-attachments/assets/96cea1a8-299a-4c0f-a595-1a80a9f33219" />
+  <img width="12" />
+  <img width="40" height="40" alt="bi Background Removed" src="https://github.com/user-attachments/assets/ac5334d3-677a-4bcd-9c6d-7689b920084e" />
+
 
 
 </div>
