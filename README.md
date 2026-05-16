@@ -43,6 +43,11 @@
   <img width="12" />
   <img width="40" height="40" alt="sas" src="https://github.com/user-attachments/assets/b2155264-6cbe-46ff-b065-e39eb9e6dd2f" />
   <img width="12" />
+    <img width="40" height="40" alt="sas" src=" https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&ved=0CBYQjRxqFwoTCJCCtafyvZQDFQAAAAAdAAAAABAF&opi=89978449" />
+
+ 
+
+ 
   
 
 
