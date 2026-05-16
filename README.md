@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
- <img width="40" height="40" alt="Untitled design" src="https://github.com/user-attachments/assets/f6f24244-e3b2-4606-8720-d35d65281517" />
+<img width="3840" height="2160" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/a2ff82fc-6645-47d3-a6ce-d104512f624e" />
 
 
   <img width="12" />
