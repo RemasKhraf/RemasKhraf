@@ -35,11 +35,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
-  <img width="40" height="40" alt="Power-BI" src="https://github.com/user-attachments/assets/6b541bd7-426c-4000-8ce8-9a4abaafb168" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
-  <img width="40" height="40" alt="Power-BI Background Removed" src="https://github.com/user-attachments/assets/a39bfa52-8fcd-4df9-8566-c4c7a79c6dd2" />
-
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="powerbi logo" />
 
 
 
