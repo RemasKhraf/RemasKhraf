@@ -42,6 +42,16 @@
   <img width="40" height="40" alt="t" src="https://github.com/user-attachments/assets/42dd85fc-e129-46c4-9cc6-746cc9be5a64" />
   <img width="12" />
   <img width="40" height="40" alt="Power-BI-Logo" src="https://github.com/user-attachments/assets/1cdabbd8-58ed-4a91-82b9-c5e102bc37c5" />
+  <img width="12" />
+  <img width="2880" height="3200" alt="Power-BI Background Removed" src="https://github.com/user-attachments/assets/2452e5e1-f791-4824-9493-869864a6d2ba" />
+  <img width="12" />
+  <img width="3840" height="2160" alt="Untitled design" src="https://github.com/user-attachments/assets/b9304985-3815-44aa-8fe6-adcc0fe66666" />
+  <img width="12" />
+<img width="3840" height="2160" alt="tempImages000Di - Edited" src="https://github.com/user-attachments/assets/b33747b4-f834-4db1-9c66-9a7ace3e5689" />
+  <img width="12" />
+<img width="3840" height="2160" alt="Power-BI-Logo-2" src="https://github.com/user-attachments/assets/c5d0c75a-0650-42e0-964e-8ddab8f24afc" />
+
+
 
 
 
