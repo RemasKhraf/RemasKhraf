@@ -35,7 +35,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
-  <img width="40" height="40" alt="PowerBI_MasterLogo" src="https://github.com/user-attachments/assets/339a4798-7818-4f00-b072-c65cfc7af737" />
+  <img width="40" height="40" alt="Power-BI-Logo-2" src="https://github.com/user-attachments/assets/65cb2005-72f4-438c-a494-ae9e99c71b6b" />
+
 
 
   <img width="12" />
