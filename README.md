@@ -43,7 +43,7 @@
   <img width="12" />
   <img width="40" height="40" alt="Power-BI-Logo-2" src="https://github.com/user-attachments/assets/c5d0c75a-0650-42e0-964e-   8ddab8f24afc" />
   <img width="12" />
-  <img width="3840" height="2160" alt="Power bi" src="https://github.com/user-attachments/assets/22e80038-42a7-405d-8510-aa5c0b75131d" />
+  <img width="40" height="40" alt="Power bi" src="https://github.com/user-attachments/assets/22e80038-42a7-405d-8510-aa5c0b75131d" />
 
 
 
